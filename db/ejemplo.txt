@@ -1,0 +1,5 @@
+A la fecha : 2021-08-10T04:01:58.273Z
+            Fue realizada contización con los siguientes datos:
+            cantidad de pesos a convertir :40000
+            convertido a uf da un total de:
+            1.343802450289388

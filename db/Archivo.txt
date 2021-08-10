@@ -1,0 +1,5 @@
+A la fecha : 2021-08-10T03:57:38.108Z
+            Fue realizada contización con los siguientes datos:
+            cantidad de pesos a convertir :10
+            convertido a uf da un total de:
+            0.00033595061257234697
